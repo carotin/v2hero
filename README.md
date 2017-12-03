@@ -39,7 +39,7 @@
    
 7. 配置代理
 
-   v2ray客户端一般都实现了内外分流，也可以配合插件细化管理https://github.com/gfwlist/gfwlist/wiki
+   v2ray客户端一般都实现内外分流，也可以配合插件细化管理https://github.com/gfwlist/gfwlist/wiki
    
 ### 实现参考 
 
